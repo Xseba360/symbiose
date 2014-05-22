@@ -2,8 +2,10 @@
 <shortcut>
 	<attribute name="title" value="Video player"/>
 	<attribute name="title" lang="fr_FR" value="Lecteur vidéo"/>
+	<attribute name="title" lang="pl_PL" value="Odtwarzacz wideo"/>
 	<attribute name="description" value="Play videos"/>
 	<attribute name="description" lang="fr_FR" value="Lire des vidéos"/>
+	<attribute name="description" lang="pl_PL" value="Odtwarzaj swoje multimedia"/>
 	<attribute name="command" value="audience"/>
 	<attribute name="icon" value="apps/video-player"/>
 	<attribute name="menu" value="applications"/>
