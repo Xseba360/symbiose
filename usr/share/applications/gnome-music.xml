@@ -2,8 +2,10 @@
 <shortcut>
 	<attribute name="title" value="Music"/>
 	<attribute name="title" lang="fr_FR" value="Musique"/>
+	<attribute name="title" lang="pl_PL" value="Muzyka"/>
 	<attribute name="description" value="Listen to your music"/>
 	<attribute name="description" lang="fr_FR" value="Écouter votre musique"/>
+	<attribute name="description" lang="pl_PL" value="Słuchaj swojej muzyki"/>
 	<attribute name="command" value="gnome-music"/>
 	<attribute name="icon" value="apps/music-player"/>
 	<attribute name="menu" value="applications"/>
