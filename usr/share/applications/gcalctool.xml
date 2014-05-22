@@ -3,9 +3,11 @@
 	<attribute name="title" value="Calculator"/>
 	<attribute name="title" lang="fr_FR" value="Calculatrice"/>
 	<attribute name="title" lang="es_ES" value="Calculadora"/>
+	<attribute name="title" lang="pl_PL" value="Kalkulator"/>
 	<attribute name="description" value="Perform arithmetic operations"/>
 	<attribute name="description" lang="fr_FR" value="Effectuer des opérations arithmétiques"/>
 	<attribute name="description" lang="es_ES" value="Efectúe operaciones aritméticas"/>
+	<attribute name="description" lang="pl_PL" value="Wykonuj obliczenia arytmetyczne"/>
 	<attribute name="command" value="gcalctool"/>
 	<attribute name="icon" value="apps/calculator"/>
 	<attribute name="category" value="accessories"/>
