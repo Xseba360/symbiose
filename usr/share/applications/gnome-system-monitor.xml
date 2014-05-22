@@ -2,8 +2,10 @@
 <shortcut>
 	<attribute name="title" value="System monitor"/>
 	<attribute name="title" lang="fr_FR" value="Moniteur système"/>
+	<attribute name="title" lang="pl_PL" value="Monitor systemu"/>
 	<attribute name="description" value="List and manage processes"/>
 	<attribute name="description" lang="fr_FR" value="Afficher et gérer les processus"/>
+	<attribute name="description" lang="pl_PL" value="Zarządzaj procesami"/>
 	<attribute name="command" value="gnome-system-monitor"/>
 	<attribute name="icon" value="apps/system-monitor"/>
 	<attribute name="menu" value="system"/>
