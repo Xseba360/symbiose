@@ -2,8 +2,10 @@
 <shortcut>
 	<attribute name="title" value="Register"/>
 	<attribute name="title" lang="fr_FR" value="Inscription"/>
+	<attribute name="title" lang="pl_PL" value="Rejestracja"/>
 	<attribute name="description" value="Create a new account"/>
 	<attribute name="description" lang="fr_FR" value="Créer un nouveau compte"/>
+	<attribute name="description" lang="pl_PL" value="Stwórz nowe konto"/>
 	<attribute name="command" value="gnome-register"/>
 	<attribute name="icon" value="stock/person"/>
 	<attribute name="menu" value="system"/>
