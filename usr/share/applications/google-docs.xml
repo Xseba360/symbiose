@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shortcut>
 	<attribute name="title" value="Google Documents"/>
+	<attribute name="title" lang="pl_PL" value="Dokumenty Google"/>
 	<attribute name="description" value="Display and edit Google Docs files"/>
 	<attribute name="description" lang="fr_FR" value="Afficher et éditer des fichiers Google Docs"/>
 	<attribute name="description" lang="es_ES" value="Mostrar y editar ficheros de Google Docs"/>
+	<attribute name="description" lang="pl_PL" value="Wyświetl i edytuj pliki Google Docs"/>
 	<attribute name="command" value="google-docs"/>
 	<attribute name="icon" value="applications/google-docs"/>
 	<attribute name="category" value="office"/>
