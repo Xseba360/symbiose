@@ -3,9 +3,11 @@
 	<attribute name="title" value="System settings"/>
 	<attribute name="title" lang="fr_FR" value="Paramètres système"/>
 	<attribute name="title" lang="es_ES" value="Configuración del sistema"/>
+	<attribute name="title" lang="pl_PL" value="Ustawienia systemowe"/>
 	<attribute name="description" value="Manage system settings"/>
 	<attribute name="description" lang="fr_FR" value="Modifier les paramètres système"/>
 	<attribute name="description" lang="es_ES" value="Modificar las configuraciones del sistema"/>
+	<attribute name="description" lang="pl_PL" value="Zarządzaj konfiguracją systemu"/>
 	<attribute name="command" value="gconf"/>
 	<attribute name="icon" value="apps/administration"/>
 	<attribute name="category" value="preferences"/>
