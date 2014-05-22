@@ -7,7 +7,7 @@
 	<attribute name="description" value="Switch between interfaces"/>
 	<attribute name="description" lang="fr_FR" value="Changer d'interface"/>
 	<attribute name="description" lang="es_ES" value="Cambie de interfaz"/>
-	<attribute name="description" lang="pl_PL value="Zmień interfejs"/>
+	<attribute name="description" lang="pl_PL" value="Zmień interfejs"/>
 	<attribute name="command" value="cameleon"/>
 	<attribute name="icon" value="actions/interface"/>
 	<attribute name="menu" value="applications"/>
